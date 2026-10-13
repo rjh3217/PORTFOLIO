@@ -277,7 +277,7 @@
         display: flex;
         gap: 6px;
 
-        background: rgba(255, 255, 255, 0.1);
+        background: rgba(15, 35, 75, 0.7);
         padding: 5px 10px;
         border: 1px solid var(--main_color);
         border-radius: 12px;
@@ -390,7 +390,7 @@
         display: inline-flex;
         gap: 10px;
 
-        background: rgba(255, 255, 255, 0.1);
+        background: rgba(15, 35, 75, 0.7);
         border: 1px solid var(--main_color);
         border-radius: 20px;
         padding: 5px 10px;
@@ -451,7 +451,7 @@
     .sc5 .m_box_left .btn_wrap {
         display: inline-flex;
         gap: 10px;
-        background: rgba(255, 255, 255, 0.1);
+        background: rgba(15, 35, 75, 0.7);
         border: 1px solid var(--main_color);
         border-radius: 20px;
         padding: 5px 10px;
@@ -527,7 +527,7 @@
     .sc5 .m_box_right .btn_wrap {
         display: inline-flex;
         gap: 10px;
-        background: rgba(255, 255, 255, 0.1);
+        background: rgba(15, 35, 75, 0.7);
         border: 1px solid var(--main_color);
         border-radius: 20px;
         padding: 5px 10px;
